@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Friends 7s Kombanad",
+    "slug": "friends-7s-kombanad",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": { "image": "./assets/splash.png", "resizeMode": "contain", "backgroundColor": "#FDF9F2" },
+    "android": {
+      "package": "com.friends7s.kombanad",
+      "adaptiveIcon": { "foregroundImage": "./assets/adaptive-icon.png", "backgroundColor": "#FDF9F2" }
+    }
+  }
+}
